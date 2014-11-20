@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0; padding:0;}
+body{font-family:"Arial Black", Gadget, sans-serif;font-size:16px;color:#000;line-height:22px; background-color:#666;}
+.fix{overflow:hidden;}
+
+.alignleft{ float:left}
+.alignright{ float:right}
+.main{width:1000px;display:block;margin:0 auto;background:#FFF; border:1px solid; margin-top:50px; height:550px;}
+
+
+.maincontent{ margin:0px;}
+.menu{ margin-bottom:0px; margin:0px; padding:0px}
+
+
+.error_msg{ color:#F00; margin-left:360px; margin-bottom:20px; font-weight:bolder;}	
+.signup_class{font-size: 40px;margin-bottom: 50px;margin-left: 418px; margin-top:20px;}
+.filed_{border-radius: 5px 5px 5px 5px;height: 27px;margin-bottom: 11px;width: 232px; padding-left:23px; margin-left:21px;background: url(../img/captcha_icon.png) 2px 3px no-repeat, linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%)}
+.filed_:hover{border:#F00 2px solid}
+.filed_one{border-radius: 5px 5px 5px 5px;height: 27px;margin-bottom: 11px;width: 232px; margin-left:21px; padding-left:23px; background:url(../img/Management-Manager-icon.png) 2px 3px no-repeat, linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%)}
+.filed_one:hover{ border:#F00 2px solid}
+.filed_three{border-radius: 5px 5px 5px 5px;height: 27px;margin-bottom: 11px;width: 232px; margin-left:21px;padding-left:23px; background:url(../img/mail-square-icon.png) 2px 3px no-repeat, linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%)}
+.filed_three:hover{ border:#F00 2px solid}
+.filed_five{border-radius: 5px 5px 5px 5px;height: 27px;margin-bottom: 11px;width: 232px; margin-left:21px; padding-left:23px; background:url(../img/phone-icon.png) 2px 3px no-repeat, linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%)}
+.filed_five:hover{border:#F00 2px solid}
+.filed_four{border-radius: 5px 5px 5px 5px;height: 27px;margin-bottom: 11px;width: 232px; margin-left:21px; padding-left:23px; background:url(../img/LogoAust.jpg) 2px 3px no-repeat, linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%)}
+.filed_four:hover{ border:#F00 2px solid}
+.filed{border-radius: 5px 5px 5px 5px;height: 27px;margin-bottom: 11px;width: 232px; padding-left:23px; margin-left:21px; background:url(../img/Key-icon.png) 2px 3px no-repeat, linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%)}
+.filed:hover{border:#F00 2px solid}
+
+.fname{ font-size:20px}
+	
+.signup_settings{margin-left: 132px;}
+.back{  height: 35px;margin-right: 10px;margin-top: 18px;width: 80px; font-weight:bold}
+.table{margin-left: 0px;border: 10px solid #936;margin-bottom: 18px;padding: 30px; margin-right:50px;}
+
+
+
+
+
+
+	
